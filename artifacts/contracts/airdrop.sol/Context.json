@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/airdrop.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220fa3b419d23013abf675e5ace9ca0da827a6fef4709ee288e4118c5bb3063abc964736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220fa3b419d23013abf675e5ace9ca0da827a6fef4709ee288e4118c5bb3063abc964736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
